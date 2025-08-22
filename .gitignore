@@ -1,0 +1,10 @@
+# Folders to ignore
+.vscode/
+__pycache__/
+imagenette2-320/
+outputs/
+imagenette/
+
+# Files to ignore
+.python-version
+.windsurfrules
